@@ -7,6 +7,8 @@ It features **over 600 high-quality, self-recorded Foley samples**, captured in 
 
 This tool is **ideal for anyone working on film, games, or other projects involving audio** who needs fast, expressive, and synchronized footstep sounds. **Stepper* is thought to be a quick alternative especially for creators without access to full Foley facilities.
 
+![Stepper Implemented](Images/Stepper_FL_Studio.png)
+
 This Plug-In is a work in progress and **new features** will be added in the near future including:
 - The ability to switch between different shoe types 
 - An option to toggle the automatic speed-based step changes on/off
@@ -15,5 +17,3 @@ This Plug-In is a work in progress and **new features** will be added in the nea
 
 
 **Note:** The standalone app is just for trying out and won’t work with a MIDI keyboard. To use Stepper to its full potential, please use the plug-in within the context of your DAW.
-
-![Stepper Implemented](Images/Stepper_FL_Studio.png)
