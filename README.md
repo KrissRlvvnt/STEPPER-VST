@@ -1,6 +1,6 @@
 # Stepper-VST
 
-![Stepper Logo](images/Logo_2.png)
+![Stepper Logo](Images/Logo_2.png)
 
 
 Stepper is a real-time VST3 footstep sampler designed to simplify the creation of realistic walking sounds directly in your DAW. Instead of manually dragging and placing footsteps in the timeline, this plugin allows you to "perform" footsteps using MIDI input where one key represents one each foot.
