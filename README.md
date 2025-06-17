@@ -18,6 +18,6 @@ This Plug-In is a **work in progress** and new features will be added in the nea
 - Customizable MIDI key mapping so users can assign foot triggers according to their preferences
 
 
-**Note:** The standalone app is just for trying out and won’t work with a MIDI keyboard (howerver after clicking any piano key with your mouse once, you can use it with the **"A" and "S" keys** of your keyboard). If you want to use Stepper to its **full potential**, please use the plug-in within the context of your DAW.
+**Note:** The standalone app is just for trying out and won’t work with a MIDI keyboard (however after clicking any piano key with your mouse once, you can use it with the **"A" and "S" keys** of your keyboard). If you want to use Stepper to its **full potential**, please use the plug-in within the context of your DAW.
 
 
