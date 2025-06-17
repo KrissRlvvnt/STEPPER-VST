@@ -11,7 +11,7 @@ This tool is **ideal for anyone working on film, games, or other projects involv
 
 ![Stepper Implemented](Images/Stepper_FL_Studio.png)
 
-This Plug-In is a work in progress and **new features** will be added in the near future including:
+This Plug-In is a **work in progress** and new features will be added in the near future including:
 - The ability to switch between different shoe types 
 - An option to toggle the automatic speed-based step changes on/off
 - Support for switching between different microphone positions to enhance spatial sound realism
