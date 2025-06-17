@@ -11,3 +11,6 @@ This Plug-In is a work in progress and new features will be added in the near fu
 - An option to toggle the automatic speed-based step changes on/off
 - Support for switching between different microphone positions to enhance spatial sound realism
 - Customizable MIDI key mapping so users can assign foot triggers according to their preferences
+
+
+Note: The standalone app is just for trying out and won’t work with a MIDI keyboard. To use Stepper to its full potential, please use the plug-in within the context of your DAW.
