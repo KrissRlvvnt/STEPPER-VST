@@ -8,6 +8,7 @@ It features **over 600 high-quality, self-recorded Foley samples**, captured in 
 <img src="Images/Foley_Recording-no_bg2.png" alt="Foley Screenshot" width="600"/>
 
 The plugin features 10 different surfaces (e.g., gravel, wood, wet earth, etc.) and offers three dynamic walking speeds (slow, medium, fast), which are automatically selected based on your playing tempo. 
+
 This tool is **ideal for anyone working on film, games, or other projects involving audio** who needs fast, expressive, and synchronized footstep sounds. **Stepper** is thought to be a quick alternative, especially for creators without access to full Foley facilities.
 
 ![Stepper Implemented](Images/Stepper_FL_Studio.png)
