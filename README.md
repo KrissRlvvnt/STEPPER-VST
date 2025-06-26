@@ -5,11 +5,11 @@
 
 It includes **over 600 high-quality, self-recorded Foley samples**, captured in professional studio environments such as the SWR's Foley stage in Tübingen and the sound studio at Furtwangen University. 
 
-<img src="Images/Foley_Recording-no_bg2.png" alt="Foley Screenshot" width="600"/>
+<img src="Images/Foley_Recording-no_bg2.png" alt="Foley Screenshot" width="650"/>
 
 STEPPER features 10 different surfaces (e.g., gravel, wood, wet earth, etc.) and offers three dynamic walking speeds (slow, medium, fast), which are automatically selected based on your playing tempo. 
 
-<img src="Images/Stepper_Auswahlfenster2.png" alt="Foley Screenshot" width="600"/>
+<img src="Images/Stepper_Auswahlfenster2.png" alt="Foley Screenshot" width="500"/>
 
 It is a tool **ideal for anyone working on film, games, or other projects involving audio** who needs fast, expressive, and synchronized footstep sounds. STEPPER is thought to be a quick alternative, especially for creators without access to full Foley facilities.
 
